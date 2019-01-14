@@ -1,5 +1,7 @@
 <h1 align="center">React Weather Finder</h1>
 
+<img src="src/img/weather-finder-img.png" style="max-width:100%" alt="Weather-finder-app" />
+
 ## Built With
 * [React](https://reactjs.org/)
 * [Open Weather Map API](https://openweathermap.org/)

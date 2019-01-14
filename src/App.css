@@ -15,7 +15,8 @@ body {
 }
 
 .row {
-  margin-right: -20px;
+  margin-right: -30px;
+  margin-left: -30px;
 }
 
 .main {
